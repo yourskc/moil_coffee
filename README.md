@@ -4,7 +4,7 @@
 
 Purpose : This repository is based on the Coffee exmaple project in Qt5.12.10.
 
-We modify the code and some libraries, functions and parameters to make it run in Qt5.6.3
+We modify the source code and some libraries, functions and parameters to make it run in Qt5.6.3.
 
 ## 1. Prerequisites
 
